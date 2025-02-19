@@ -24,11 +24,10 @@
 
 ## 成果
 ### 執行成果
-![image](https://github.com/user-attachments/assets/a6c0b80f-7367-485a-897a-51fcf4bae3a4)
-
+<img width="952" alt="image" src="https://github.com/user-attachments/assets/4a9efb91-9dcc-4fac-95ac-85296d6b1013" />
 ...
 ### 影片連結
-https://drive.google.com/file/d/14tflSPRuoOpyQzns5_RetOymQ69MZXc_/view?usp=drive_link
+https://drive.google.com/file/d/1PhPJfOHC-WHrkSG9DDrYKnwHv_FZmOCp/view?usp=drive_link
 ...
 
 ## 其它你想要補充標題和內容
