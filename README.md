@@ -20,7 +20,7 @@
 
 
 ## 說明
-(介紹你微調後的模型，主要用來做什麼的，例如你使用模型進行情緒分類，分成幾類…等等，再放上作業要求的 texts 預測結果，自由發揮)
+這個微調後的模型主要用於進行情緒分類，將文本分為八種類別：平淡語氣、開心語調、悲傷語調、憤怒語調、驚奇語調、厭惡語調、疑問語調和關切語調。使用 Chinese_Multi-Emotion_Dialogue_Dataset 資料集進行訓練，並轉換文字標籤為數字。
 
 ## 成果
 ### 執行成果
@@ -30,6 +30,4 @@
 https://drive.google.com/file/d/1PhPJfOHC-WHrkSG9DDrYKnwHv_FZmOCp/view?usp=drive_link
 ...
 
-## 其它你想要補充標題和內容
-...
-...
+
